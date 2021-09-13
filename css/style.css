@@ -31,10 +31,12 @@ body {
   padding: 10px;
   transition: 0.6s;
 }
-.single-product:hover {
+.single-product {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
-  border: 1px solid cyan;
+  background: #d8d8d8;
+  border: 1px solid #8eb9ff;
+  margin-left: 10px;
 }
 .product-image {
   width: 150px;
